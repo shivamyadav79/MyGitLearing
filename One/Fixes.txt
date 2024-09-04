@@ -2,3 +2,5 @@ this file can fix the other files
 need to add the new txt to the file.
 Add new footer to the file.
 another fix message for pinkmode
+another fix message for purple mmode
+
