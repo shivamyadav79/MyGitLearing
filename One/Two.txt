@@ -2,3 +2,5 @@ This is my file 2 for git learings.
 Adding more content to file.
 
 add another message to the file 2
+
+stash message
