@@ -1,2 +1,3 @@
-this file can fix the other files 
+this file can fix the other files
 need to add the new txt to the file.
+Add new footer to the file.
